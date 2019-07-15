@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/periodicallyDrag.unity
+  isLoaded: 1
+  isActive: 1

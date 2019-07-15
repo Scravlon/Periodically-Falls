@@ -1,0 +1,167 @@
+<aars>
+  <explodeData>
+    <aar>play-services-ads-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7107843-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-lite-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7138062-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-lite-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-gass-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7167674-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-gass-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7217798-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-basement-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-license-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.724747-04:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-license-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-lite-license-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7267416-04:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-lite-license-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-license-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7301939-04:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-basement-license-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-gass-license-11.6.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7342255-04:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/play-services-gass-license-11.6.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-v4-25.2.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7371773-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-v4-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-fragment-25.2.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7401682-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-fragment-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-media-compat-25.2.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7441575-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-media-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-core-utils-25.2.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7471488-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-core-utils-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-core-ui-25.2.0</aar>
+    <modificationTime>2019-07-15T16:51:44.7501721-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-core-ui-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-compat-25.2.0</aar>
+    <modificationTime>2019-07-15T16:51:44.756126-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-annotations-25.2.0</aar>
+    <modificationTime>0001-01-01T00:00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.scravlon.periodicallyfalls</bundleId>
+    <path>Assets/Plugins/Android/support-annotations-25.2.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
